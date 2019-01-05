@@ -1,0 +1,4 @@
+[submodule "AppCenter-SDK-React-Native"]
+	path = AppCenter-SDK-React-Native
+	url = git@github.com:Microsoft/AppCenter-SDK-React-Native.git
+	branch = master
